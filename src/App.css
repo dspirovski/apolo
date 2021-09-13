@@ -1,0 +1,22 @@
+ * { 
+  background: url("./images/background.jpg") no-repeat fixed center;
+  color: white;  
+  font-family: 'Alumni Sans', sans-serif;
+  background-size: cover;
+} 
+
+ .header {
+  text-align: center; 
+  color: white;
+  text-align: left;
+  padding: 15px;
+  font-size: 45px;
+} 
+
+h1 {
+  font-size: 35px;
+}
+
+p {
+  font-size: 25px;
+}
